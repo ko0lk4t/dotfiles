@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = richardaruofor@gmail.com
+	name = Richard Aruofor
